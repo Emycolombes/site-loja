@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.cabecalho {
+    background-color: #FFECF0;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 24PX 0;
+    font-size: 24px;
+    
+}
+
+.imagem-roupa{
+    margin: 0 35px;
+    padding: 65PX ;
+}
+
+.titulo-nova{
+    font-size: 60px;
+    margin: 0 150px;
+}
+
+.novacolecao{
+    display: flex;
+    align-items: center;
+}
+
+
+.titulo-colecao{
+    font-size: 60px;
+    margin: 0 130px;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 700px;
+    color: indianred;
+}
+
+.calca-loja{
+    width: 150px;
+}
+
+.cropped-strass{
+    width: 150px;
+}
+
+.cropped-verde{
+    width: 150px;
+}
+
+.conjunto-rosa{
+    width: 150px;
+}
+
+.vestido-verde{
+    width: 150px;
+}
+
+.calca-panta{
+    width: 150px;
+}
+
+.conj-laranja{
+    width: 150px;
+}
+
+.casaco-trico{
+    width: 150px;
+}
+
+.vestido-novo{
+    width: 150px;
+}
+
+.produtosloja-div{
+    text-align: center;
+}
+
+.produtos-titulo{
+    text-align: center;
+}
+
+
+.produtos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color:#FFECF0 ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
+
+.linha{
+    background-color: lightcoral;
+}
+
+.linha-segunda{
+    background-color: lightcoral;
+}
+
+.produtos-2{
+    text-align: center;
+}
+
+.bolsa-roxa{
+    width: 150px;
+}
+
+.bolsa-cinza{
+    width: 150px;
+}
+
+.produtos-total{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+}
+
+.bolsa-branca{
+    width: 150px;
+}
+
+.cinto-coracao{
+    width: 150px;
+}
+
+.cinto-marrom{
+    width: 150px;
+}
+
+.cinto-preto{
+    width: 150px;
+}
